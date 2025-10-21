@@ -28,6 +28,38 @@
       "groups": {
         "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-3-VTPav5V"
       }
+    },
+    "4": {
+      "title": "An Errand",
+      "volume": "1",
+      "last_updated": "1761063198",
+      "groups": {
+        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-4-SH9UJCy"
+      }
+    },
+    "5": {
+      "title": "The Starry Sky",
+      "volume": "1",
+      "last_updated": "1761063346",
+      "groups": {
+        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-5-WNJGHTS"
+      }
+    },
+    "6": {
+      "title": "A Big Visitor",
+      "volume": "1",
+      "last_updated": "1761064125",
+      "groups": {
+        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-6-MCoyHdu"
+      }
+    },
+    "4.5": {
+      "title": "Special Illustration",
+      "volume": "1",
+      "last_updated": "1761063254",
+      "groups": {
+        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-4-5-y88s0Wd"
+      }
     }
   }
 }
