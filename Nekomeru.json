@@ -158,7 +158,7 @@
       }
     },
     "15.5": {
-      "title": "Special Illustration 9",
+      "title": "Special Illustration 9 + Preview",
       "volume": "0",
       "last_updated": "1761155023",
       "groups": {
@@ -166,11 +166,59 @@
       }
     },
     "16.5": {
-      "title": "Special Illustration 10",
+      "title": "Special Illustration 10 + Preview",
       "volume": "0",
       "last_updated": "1761164641",
       "groups": {
         "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-16-5-BJdNBAS"
+      }
+    },
+    "17.5": {
+      "title": "Special Illustration 11 + Preview",
+      "volume": "0",
+      "last_updated": "1761173773",
+      "groups": {
+        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-17-5-ZAMhIum"
+      }
+    },
+    "18.5": {
+      "title": "Special Illustration 12",
+      "volume": "0",
+      "last_updated": "1761173863",
+      "groups": {
+        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-18-5-KLS5QgV"
+      }
+    },
+    "19.5": {
+      "title": "Special illustration 13",
+      "volume": "0",
+      "last_updated": "1761173883",
+      "groups": {
+        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-19-5-NGR7qP2"
+      }
+    },
+    "5.5": {
+      "title": "Special Illustration 3",
+      "volume": "0",
+      "last_updated": "1761174011",
+      "groups": {
+        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-5-5-CoeRaL1"
+      }
+    },
+    "21.5": {
+      "title": "Volume PR + Preview",
+      "volume": "0",
+      "last_updated": "1761174278",
+      "groups": {
+        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-21-5-Ys7UEXR"
+      }
+    },
+    "22.5": {
+      "title": "Special Illsutration 15 + Preview",
+      "volume": "0",
+      "last_updated": "1761174378",
+      "groups": {
+        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-22-5-zQilUOd"
       }
     }
   }
