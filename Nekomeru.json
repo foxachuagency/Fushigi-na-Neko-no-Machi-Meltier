@@ -125,12 +125,36 @@
         "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-15-3mLnDuq"
       }
     },
+    "16": {
+      "title": "Teach Me Magic",
+      "volume": "3",
+      "last_updated": "1761155086",
+      "groups": {
+        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-16-oQbbP8h"
+      }
+    },
     "4.5": {
       "title": "Special Illustration",
       "volume": "1",
       "last_updated": "1761063254",
       "groups": {
         "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-4-5-y88s0Wd"
+      }
+    },
+    "15.5": {
+      "title": "Extra + Preview",
+      "volume": "0",
+      "last_updated": "1761155023",
+      "groups": {
+        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-15-5-XugXV23"
+      }
+    },
+    "16.5": {
+      "title": "16.5",
+      "volume": "0",
+      "last_updated": "1761164641",
+      "groups": {
+        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-16-5-BJdNBAS"
       }
     }
   }
