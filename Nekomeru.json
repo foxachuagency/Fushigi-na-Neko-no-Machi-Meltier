@@ -63,7 +63,7 @@
     },
     "8": {
       "title": "You're Not Alone",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1761074284",
       "groups": {
         "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-8-U2IrXdw"
@@ -71,7 +71,7 @@
     },
     "9": {
       "title": "Friends",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1761074360",
       "groups": {
         "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-9-Y94pvaw"
@@ -79,7 +79,7 @@
     },
     "10": {
       "title": "Your Wish",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1761086412",
       "groups": {
         "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-10-efm82Ql"
@@ -87,7 +87,7 @@
     },
     "11": {
       "title": "Jeweled Flower",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1761086574",
       "groups": {
         "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-11-SrOzf3V"
@@ -95,10 +95,34 @@
     },
     "12": {
       "title": "Cat Powder Chocolate",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1761091868",
       "groups": {
         "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-12-YndLwAU"
+      }
+    },
+    "13": {
+      "title": "My Magic",
+      "volume": "2",
+      "last_updated": "1761096356",
+      "groups": {
+        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-13-PgtplaY"
+      }
+    },
+    "14": {
+      "title": "That's Why I Love You",
+      "volume": "2",
+      "last_updated": "1761096774",
+      "groups": {
+        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-14-a5TJlZj"
+      }
+    },
+    "15": {
+      "title": "Hazy-san",
+      "volume": "3",
+      "last_updated": "1761151106",
+      "groups": {
+        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-15-3mLnDuq"
       }
     },
     "4.5": {
