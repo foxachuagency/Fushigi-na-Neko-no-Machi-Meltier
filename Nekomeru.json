@@ -872,7 +872,9 @@
       "volume": "0",
       "last_updated": "1761174011",
       "groups": {
-        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-5-5-CoeRaL1"
+        "Foxachu Agency": [
+          "https://i.imgur.com/O9CSrSe.png"
+        ]
       }
     },
     "21.5": {
