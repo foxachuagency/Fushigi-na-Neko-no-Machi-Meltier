@@ -314,7 +314,69 @@
       "volume": "4",
       "last_updated": "1761187625",
       "groups": {
-        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-23-w1dQpZn"
+        "Foxachu Agency": [
+          "https://i.imgur.com/4MgoYux.png",
+          "https://i.imgur.com/BmHCpc3.png",
+          "https://i.imgur.com/xaDCuFq.png",
+          "https://i.imgur.com/tfY4DMg.png",
+          "https://i.imgur.com/Ub8Isz0.png",
+          "https://i.imgur.com/VBRworr.png",
+          "https://i.imgur.com/snEIMpj.png",
+          "https://i.imgur.com/1Ih1zv8.png",
+          "https://i.imgur.com/1zq6pjh.png",
+          "https://i.imgur.com/NTSIfZN.png",
+          "https://i.imgur.com/Ed9UjNQ.png",
+          "https://i.imgur.com/7LMXPpy.png",
+          "https://i.imgur.com/hbKoodd.png",
+          "https://i.imgur.com/ii6ABpu.png",
+          "https://i.imgur.com/xNN066G.png",
+          "https://i.imgur.com/86Qtezw.png",
+          "https://i.imgur.com/rVAY3Ut.png",
+          "https://i.imgur.com/N6eocrV.png",
+          "https://i.imgur.com/9FvcJQW.png",
+          "https://i.imgur.com/4DDGNLY.png",
+          "https://i.imgur.com/Ll7FBs4.png",
+          "https://i.imgur.com/Dkdgo6v.png",
+          "https://i.imgur.com/UtShQ0W.png",
+          "https://i.imgur.com/CBLoe1B.png",
+          "https://i.imgur.com/Iu7cB1d.png",
+          "https://i.imgur.com/qqp6Xzp.png"
+        ]
+      }
+    },
+    "24": {
+      "title": "Festival",
+      "volume": "4",
+      "last_updated": "1762751628",
+      "groups": {
+        "Foxachu Agency": [
+          "https://i.imgur.com/uuCvQcE.png",
+          "https://i.imgur.com/AN3Goj2.png",
+          "https://i.imgur.com/B89gFdj.png",
+          "https://i.imgur.com/47pjokJ.png",
+          "https://i.imgur.com/5UJXqDO.png",
+          "https://i.imgur.com/IXr8s8E.png",
+          "https://i.imgur.com/CrW3CGu.png",
+          "https://i.imgur.com/ThPG3RN.png",
+          "https://i.imgur.com/fzlusno.png",
+          "https://i.imgur.com/aCmUp0S.png",
+          "https://i.imgur.com/iS7gv7j.png",
+          "https://i.imgur.com/a16ekVd.png",
+          "https://i.imgur.com/ZrFgAD9.png",
+          "https://i.imgur.com/WdlKC7L.png",
+          "https://i.imgur.com/rYhpa4D.png",
+          "https://i.imgur.com/AKGxShS.png",
+          "https://i.imgur.com/f3x2O7x.png",
+          "https://i.imgur.com/NjGqazR.png",
+          "https://i.imgur.com/ULoZMaX.png",
+          "https://i.imgur.com/dbIY6uL.png",
+          "https://i.imgur.com/v4FyclA.png",
+          "https://i.imgur.com/xykSZw5.png",
+          "https://i.imgur.com/VBqscJa.png",
+          "https://i.imgur.com/OyE209Z.png",
+          "https://i.imgur.com/3zaYKeB.png",
+          "https://i.imgur.com/kOJrH9b.png"
+        ]
       }
     },
     "4.5": {
@@ -378,7 +440,16 @@
       "volume": "0",
       "last_updated": "1761174278",
       "groups": {
-        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-21-5-Ys7UEXR"
+        "Foxachu Agency": [
+          "https://i.imgur.com/7mhzjyV.png",
+          "https://i.imgur.com/b1rIxq4.png",
+          "https://i.imgur.com/QEUaO2S.png",
+          "https://i.imgur.com/q4DKSUp.png",
+          "https://i.imgur.com/GIWh0Vi.png",
+          "https://i.imgur.com/gnMO7Oq.png",
+          "https://i.imgur.com/uhEGtUG.png",
+          "https://i.imgur.com/K7lSrQh.png"
+        ]
       }
     },
     "22.5": {
@@ -386,7 +457,12 @@
       "volume": "0",
       "last_updated": "1761174378",
       "groups": {
-        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-22-5-zQilUOd"
+        "Foxachu Agency": [
+          "https://i.imgur.com/DQd8SDl.png",
+          "https://i.imgur.com/cMlktYm.png",
+          "https://i.imgur.com/KyDjbK6.png",
+          "https://i.imgur.com/IFO5rLv.png"
+        ]
       }
     },
     "23.5": {
@@ -394,7 +470,23 @@
       "volume": "0",
       "last_updated": "1761187969",
       "groups": {
-        "Foxachu Agency": "/proxy/api/imgur/chapter/nekomeru-23-5-i93X3sG"
+        "Foxachu Agency": [
+          "https://i.imgur.com/2cRlCO7.png",
+          "https://i.imgur.com/NIwgGnR.png",
+          "https://i.imgur.com/fmI3u6p.png"
+        ]
+      }
+    },
+    "24.5": {
+      "title": "Special Illustration 17 + Preview",
+      "volume": "0",
+      "last_updated": "1762751812",
+      "groups": {
+        "Foxachu Agency": [
+          "https://i.imgur.com/c4epkyP.pmg",
+          "https://i.imgur.com/o4JwQqL.png",
+          "https://i.imgur.com/vusT2qK.png"
+        ]
       }
     }
   }
